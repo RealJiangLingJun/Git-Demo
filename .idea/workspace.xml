@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a7e5d64-2bb4-425c-ae17-66430f3e462b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\ideaprojects\Git-Demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f4IG3jPXPuHW6yC2rGOymEhSvO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="这是第一次更改。&#10;作者：姜家伟" />
+    <MESSAGE value="这是第二次更改。&#10;作者：姜家伟" />
+    <MESSAGE value="这是第三次更改。&#10;作者：姜家伟" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是第三次更改。&#10;作者：姜家伟" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="91" key="#Notifications" timestamp="1595472249613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="91" key="#Notifications/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595472249613" />
+    <state x="452" y="91" key="#Project_Structure" timestamp="1595471435366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="91" key="#Project_Structure/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595471435366" />
+    <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595471298570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595471298570" />
+    <state x="775" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595471368629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595471368629" />
+    <state x="527" y="37" key="CommitChangelistDialog2" timestamp="1595472196680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="37" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595472196680" />
+    <state x="184" y="96" width="1536" height="872" key="DiffContextDialog" timestamp="1595472469883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="96" width="1536" height="872" key="DiffContextDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595472469883" />
+    <state x="690" y="214" key="FileChooserDialogImpl" timestamp="1595471403463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="214" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595471403463" />
+    <state x="345" y="74" key="SettingsEditor" timestamp="1595471312679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="74" key="SettingsEditor/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595471312679" />
+    <state x="452" y="184" key="Vcs.Push.Dialog.v2" timestamp="1595472214354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="184" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595472214354" />
+    <state x="161" y="49" key="new project wizard" timestamp="1595471431302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="49" key="new project wizard/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1595471431302" />
+  </component>
+</project>
